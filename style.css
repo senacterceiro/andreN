@@ -172,10 +172,6 @@ body {
     margin-right: 10px;
 }
 
-.botao-navegacao.azul {
-    background-color: var(--cor-azul);
-}
-
 .botao-navegacao.amarelo {
     background-color: var(--cor-amarelo);
 }
